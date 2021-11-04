@@ -1,0 +1,10 @@
+mode: atomic
+go-code-coverage/calculator.go:3.24,5.2 1 0
+go-code-coverage/calculator.go:7.29,9.2 1 0
+go-code-coverage/calculator.go:11.29,12.22 1 6
+go-code-coverage/calculator.go:19.2,19.10 1 0
+go-code-coverage/calculator.go:12.22,14.3 1 2
+go-code-coverage/calculator.go:14.8,14.18 1 4
+go-code-coverage/calculator.go:14.18,16.3 1 2
+go-code-coverage/calculator.go:16.8,16.18 1 2
+go-code-coverage/calculator.go:16.18,18.3 1 2
